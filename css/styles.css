@@ -1,3 +1,14 @@
 body{
 	background-color: yellow;
 }
+
+img{
+	width: 100px;
+	height: 25%;
+	float: left;
+} 
+
+/*.img-valign {
+  vertical-align: middle;
+  margin-bottom: 0.75em;
+} */
