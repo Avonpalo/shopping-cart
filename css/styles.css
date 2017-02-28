@@ -2,13 +2,20 @@ body{
 	background-color: yellow;
 }
 
-img{
+/*img{
 	width: 100px;
 	height: 25%;
 	float: left;
-} 
+	display: block;
+	margin-top: 5px;
+} */
 
+img {
+    float: left;
+    margin: 0 0 10px 10px;
+}
 /*.img-valign {
   vertical-align: middle;
   margin-bottom: 0.75em;
-} */
+} 
+*/
